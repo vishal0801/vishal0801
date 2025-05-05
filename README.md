@@ -1,18 +1,18 @@
 # Hi there, I'm Vishal 👋
 
-## About Me
+## 👨‍🎓 About Me
 I am a passionate and motivated software developer with a B.Tech degree in Information Technology, completed in 2024. I have developed a strong foundation in **Data Structures & Algorithms (DSA)** and gained proficiency in several programming languages including **Python, Java, and JavaScript**.
 
 Currently, I am focused on **React Projects**, building responsive and user-friendly web applications. expanding my skills to backend technologies and creating complete end-to-end solutions.
 
-## Skills & Technologies
+## 👨‍💻 Skills & Technologies
 
 ### 🌐 Programming Languages
 - Python
 - Java
 - JavaScript
 
-### Frontend
+### 💻 Frontend
 - HTML5 & CSS3
 - React.js
 - Responsive Design
@@ -22,7 +22,7 @@ Currently, I am focused on **React Projects**, building responsive and user-frie
 - VS Code
 - Chrome DevTools
 
-### Concepts
+### 📔 Concepts
 - Data Structures & Algorithms
 - Object-Oriented Programming (OOP)
 - RESTful APIs (learning)
@@ -34,7 +34,7 @@ Currently, I am focused on **React Projects**, building responsive and user-frie
 - Learning backend development to become a full-stack developer
 - Improving problem-solving skills through competitive programming and DSA practice
 
-## 💻 Projects
+## 🧾 Projects
 Here are a few projects I have worked on recently:
 
 1. **Dashboard**
