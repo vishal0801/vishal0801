@@ -57,7 +57,7 @@ Here are a few projects I have worked on recently:
 ## 😊 Get in Touch
 Feel free to connect with me on:
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile) 
+- [LinkedIn](https://www.linkedin.com/in/vishalsingh0801) 
 -  [Email](2025vishalthakur@gmail.com) 
 
 ---
